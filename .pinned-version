@@ -1,0 +1,5 @@
+version: 0.9.0
+tag: 0.9.0
+sha: be9efbc7e707ea02d58e7583b13368444a6a4e31
+source: cloudposse/terraform-aws-iam-user
+registry: https://registry.terraform.io/modules/cloudposse/iam-user/aws/0.9.0
